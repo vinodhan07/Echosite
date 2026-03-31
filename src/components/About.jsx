@@ -13,7 +13,7 @@ const teamMembers = [
     name: 'Gowthamapriyan A R', 
     role: 'Creative Director', 
     phone: '+91 93456 47223', 
-    email: 'gowthamapriya@gmail.com',
+    email: 'gowthamapriyan@gmail.com',
     photo: '/member-gowtham.png', 
     badge: 'Design & Strategy'
   },
